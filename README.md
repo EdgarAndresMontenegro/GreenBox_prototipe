@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GreenBox_prototipe  
 
 ## Resumen
@@ -112,3 +113,7 @@ Puede ser alimentado por USB pero se recomienda alimentar por separado el microc
   <li>Franklin Samuel Sierra Jerez</li>
   <li>Leyston Alexander Onate Lizarazo</li>
 </ul>
+=======
+# GreenBox_prototipe
+Este repositorio contiene toda la información del desarrollo del dispositivo GreenBox para la sustentacion del proyecto final 2019-1 de las asignaturas de vision por computador y microcontroladores. Incluye datos tanto del diseño, los materiales, lenguajes utilizados y pasos llevados a cabo para el desarrollo.
+>>>>>>> Beta
